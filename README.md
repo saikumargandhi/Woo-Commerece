@@ -14,8 +14,8 @@
   <li>[woocommerce_checkout] – shows the checkout page</li>
   <li>[woocommerce_my_account] – shows the user account page</li>
   <li>[woocommerce_order_tracking] – shows the order tracking form</li>
-  <li>[products] - allows you to display products by post ID, SKU, categories, attributes, with support for pagination, random sorting, and product tags, replacing the need for multiples shortcodes such as  [featured_products], [sale_products], [best_selling_products], [recent_products], [product_attribute], and [top_rated_products].<br>
-  Ex: [products limit="4" columns="4" orderby="popularity" class="quick-sale" on_sale="true"]<br> For more example see <a href="https://docs.woocommerce.com/document/woocommerce-shortcodes/#scenario-1-random-sale-items">here</a>
+  <li>[products] - allows you to display products by post ID, SKU, categories, attributes, with support for pagination, random sorting, and product tags, replacing the need for multiples shortcodes such as  [featured_products], [sale_products], [best_selling_products], [recent_products], [product_attribute], and [top_rated_products].<br><br>
+  Ex: [products limit="4" columns="4" orderby="popularity" class="quick-sale" on_sale="true"]<br><br> For more example see <a href="https://docs.woocommerce.com/document/woocommerce-shortcodes/#scenario-1-random-sale-items">here</a>
   </li>
   <li></li>
   <li></li>
