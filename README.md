@@ -19,6 +19,7 @@
   </li>
   <li>[product_category] – Will display products in a specified product category.</li>
   <li>[product_categories] – Will display all your product categories.</li>
+  <li>[woocommerce_product_search] — shows a live Product Search Field that shows results while the customer types.</li>
   <li>[woocommerce_product_filter] — shows a live Product Search Filter.</li>
   <li>[woocommerce_product_filter_attribute] — shows a live Product Attribute Filter.</li>
   <li>[woocommerce_product_filter_category] — shows a live Product Category Filter.</li>
@@ -27,3 +28,5 @@
   <li>[woocommerce_product_filter_rating] – shows a live Product Rating Filter.</li>
   <li>[woocommerce_product_filter_sale] – shows a live filter for Products On Sale.</li>
   <li>[woocommerce_product_filter_reset] – shows a button to clear all live filters.</li>
+  <li>[woocommerce_product_filter_products] — shows the products like on the shop page and works together with the live Product Filters.</li>
+  <li>[woocommerce_product_filter_context] – determines the current filter context to limit the products displayed with the [woocommerce_product_filter_products] shortcode and related live filters used.</li>
