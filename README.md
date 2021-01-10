@@ -6,3 +6,12 @@
     It also contains how to enable the Woo-Commerce mailing templates when an new order is placed, or when an order is cancelled. Woo-Commerce provides mailing to both Website Owner and Customer regarding the Orders. Included screenshots to explain the same.
   </li>
 </ui>
+
+# Woo-Commerece Shortcodes
+<br>
+<ui>
+  <li>
+    [woocommerce_cart] – shows the cart page
+    [woocommerce_checkout] – shows the checkout page
+    [woocommerce_my_account] – shows the user account page
+    [woocommerce_order_tracking] – shows the order tracking form
