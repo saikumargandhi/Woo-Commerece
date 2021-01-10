@@ -9,9 +9,11 @@
 
 # Woo-Commerece Shortcodes
 <br>
-<ui>
-  <li>
-    [woocommerce_cart] – shows the cart page
-    [woocommerce_checkout] – shows the checkout page
-    [woocommerce_my_account] – shows the user account page
-    [woocommerce_order_tracking] – shows the order tracking form
+<oi>
+  <li>[woocommerce_cart] – shows the cart page</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
