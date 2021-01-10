@@ -9,11 +9,11 @@
 
 # Woo-Commerece Shortcodes
 <br>
-<oi>
+<ol>
   <li>[woocommerce_cart] – shows the cart page</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>[woocommerce_checkout] – shows the checkout page</li>
+  <li>[woocommerce_my_account] – shows the user account page</li>
+  <li>[woocommerce_order_tracking] – shows the order tracking form</li>
   <li></li>
   <li></li>
   <li></li>
